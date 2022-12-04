@@ -1,3 +1,7 @@
+* {
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
 .containers {
   background-image: url(/images/banner-main.jpg);
 
@@ -60,8 +64,28 @@
   background-color: rgb(235, 241, 247);
 }
 
-h3 {
+.best-sellers {
   text-align: center;
+}
+
+h3 a {
+  opacity: 90%;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  padding: 5px;
+  background-color: green;
+  border: black solid 2px;
+  border-radius: 25px;
+  text-decoration: none;
+  color: black;
+}
+
+.order-now {
+  text-align: center;
+  padding-bottom: 5px;
+}
+.order-now :hover {
+  background-color: hsl(140, 39%, 45%, 0.7);
+  color: black;
 }
 
 .seller-item,
