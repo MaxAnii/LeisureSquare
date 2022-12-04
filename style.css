@@ -186,12 +186,12 @@ h3 {
   text-justify: center;
 }
 
-a:link {
+.card-title a:link {
   color: black;
   text-decoration: none;
 }
 
-.card:hover {
+.cards:hover {
   background-color: rgba(0, 128, 0, 0.64);
   transform: scale(1.2);
 }
