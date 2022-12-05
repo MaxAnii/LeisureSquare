@@ -235,3 +235,16 @@ h3 a {
 .carousel-item {
   padding: 25px 70px 25px 80px;
 }
+.story-body {
+  justify-content: center;
+  text-align: center;
+  background-color: aliceblue;
+  padding-top: 25px;
+  padding-left: 80px;
+  padding-right: 80px;
+  padding-bottom: 25px;
+}
+
+.story {
+  text-align: center;
+}
