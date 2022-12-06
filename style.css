@@ -248,3 +248,7 @@ h3 a {
 .story {
   text-align: center;
 }
+.services > h2 {
+  padding: 5px;
+  text-align: center;
+}
