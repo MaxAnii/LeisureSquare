@@ -2,22 +2,22 @@
   font-family: Georgia, "Times New Roman", Times, serif;
 }
 .background1 {
-  background-image: url(/images/banner-main.jpg);
+  background-image: url(./images/banner-main.jpg);
 }
 .background2 {
-  background-image: url(/images/background\ 2.jpg);
+  background-image: url(./images/background\ 2.jpg);
 }
 .background3 {
-  background-image: url(/images/background\ 3.jpg);
+  background-image: url(./images/background\ 3.jpg);
 }
 .background4 {
-  background-image: url(/images/background\ 4.jpg);
+  background-image: url(./images/background\ 4.jpg);
 }
 .background5 {
-  background-image: url(/images/background\ 5.jpg);
+  background-image: url(./images/background\ 5.jpg);
 }
 .background6 {
-  background-image: url(/images/background\ 6.jpg);
+  background-image: url(./images/background\ 6.jpg);
 }
 .containers {
   background-repeat: no-repeat;
